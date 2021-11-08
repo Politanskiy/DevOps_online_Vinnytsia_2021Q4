@@ -1,0 +1,17 @@
+4130594 (HEAD -> main, origin/main) HEAD@{0}: commit: file index.html changed
+346f70f HEAD@{1}: merge styles: Merge made by the 'recursive' strategy.
+e6fab4b (origin/images, images) HEAD@{2}: checkout: moving from main to main
+e6fab4b (origin/images, images) HEAD@{3}: merge images: Fast-forward
+db7423b HEAD@{4}: checkout: moving from main to main
+db7423b HEAD@{5}: checkout: moving from styles to main
+eee4fd6 (origin/styles, styles) HEAD@{6}: commit: Added styles folder with styles source inside it
+12ddc5d (origin/develop, develop) HEAD@{7}: checkout: moving from develop to styles
+12ddc5d (origin/develop, develop) HEAD@{8}: checkout: moving from images to develop
+e6fab4b (origin/images, images) HEAD@{9}: commit: Added images source inside it
+9adabed HEAD@{10}: commit: Added images folder with some images inside it
+12ddc5d (origin/develop, develop) HEAD@{11}: checkout: moving from develop to images
+12ddc5d (origin/develop, develop) HEAD@{12}: commit: Added file index.html
+db7423b HEAD@{13}: checkout: moving from main to develop
+db7423b HEAD@{14}: commit: new file readme.txt
+c24aa73 HEAD@{15}: Branch: renamed refs/heads/master to refs/heads/main
+c24aa73 HEAD@{17}: commit (initial): first commit
